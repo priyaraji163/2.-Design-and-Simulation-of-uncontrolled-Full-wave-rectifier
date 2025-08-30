@@ -55,5 +55,12 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+
+<img width="1920" height="942" alt="PE EXP-2 CD" src="https://github.com/user-attachments/assets/4dc27037-ae9d-42e9-bef1-527adfd99367" />
+
 ## Output
+
+<img width="1920" height="851" alt="PE EXP-2 WAVEFORM" src="https://github.com/user-attachments/assets/57dd0bcb-7c01-46e9-91e8-6fbfb5e749a0" />
+
 ## Result
+Design-and-Simulation-of-uncontrolled-Full-wave-rectifier is designed in Matlab and simulated successfully.
